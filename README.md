@@ -5,7 +5,7 @@ Download the installation zip file through the following link：[download](https
 
 User manual:[download](https://1drv.ms/b/s!AlAOIOBwskGHgl-hRuQVUO0tOqmA?e=486Uqq)
 
-![alt text](topic.png)
+![alt text](usermanual.png)
 
 
 ## 1.Scene1 Durham Riverside
